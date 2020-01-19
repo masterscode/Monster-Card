@@ -1,3 +1,4 @@
+_This project was bootstrapped with create-react-app_
 ## Available Scripts
 
 In the project directory, you can run:
