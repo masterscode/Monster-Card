@@ -1,0 +1,32 @@
+.empty {
+  background-color: red;
+}
+.not-empty {
+  background-color: blue;
+}
+button {
+  border-collapse: collapse;
+  padding: 4px;
+  text-align: center;
+  font-weight: bold;
+  border-style: dotted thin gray;
+  margin: 5px;
+}
+
+#mosh {
+  display: flex;
+  margin: auto;
+  width: 70%;
+  border-radius: 5px;
+  padding: 9px;
+  margin-top: 5px;
+  background-color: burlywood;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
