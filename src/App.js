@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { CardList } from "./components/card-list/card-list.component";
+import { CardList } from "./components/card-list/CardList";
 
 class App extends React.Component {
   constructor() {
