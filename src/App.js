@@ -37,7 +37,7 @@ class App extends React.Component {
       <React.Fragment>
         <h1 align = 'center'>Monster App</h1>
         <SearchBox
-        placeholder = 'search monsters'
+        placeholder = 'Search Monsters'
         handleSearch = {this.handleSearch} />
     <CardList monsters={filteredMonsters} /> 
     </React.Fragment>
